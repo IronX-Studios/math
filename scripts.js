@@ -18,7 +18,7 @@ function checkPswd() {
   }
 
   function goHomel () {
-    window.location.replace('./index.html');
+    window.location.replace('./gxmes');
   }
 
   function goFreeze () {
