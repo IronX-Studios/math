@@ -4,6 +4,8 @@
 @import url('https://fonts.googleapis.com/css?family=VT323');
 body {
   background-image: url('Omnid2.png');
+  background-repeat: no-repeat;
+  width: 100vw;
   background-color: #ffffff;
   display: table;
 }
