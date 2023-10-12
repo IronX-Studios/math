@@ -10,7 +10,7 @@ function checkPswd() {
   }
 
   function goNext () {
-    window.location.replace('https://ironx-studios.github.io/gxmes/math.html');
+    window.location.replace('./math.html');
   }
 
   function goHome () {
