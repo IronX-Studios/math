@@ -6,7 +6,7 @@ body {
   background-image: url('Omnid2.png');
   background-repeat: no-repeat;
   width: 100vw;
-  background-color: #ffffff;
+  height: 100vh;
   display: table;
 }
 
