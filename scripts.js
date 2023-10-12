@@ -10,19 +10,19 @@ function checkPswd() {
   }
 
   function goNext () {
-    window.location.replace('/math.html');
+    window.location.replace('/gxmes/math.html');
   }
 
   function goHome () {
-    window.location.replace('/frozen.html');
+    window.location.replace('/gxmes/frozen.html');
   }
 
   function goHomel () {
-    window.location.replace('/index.html');
+    window.location.replace('/gxmes/index.html');
   }
 
   function goFreeze () {
-    window.location.replace('/math.html');
+    window.location.replace('/gxmes/math.html');
   }
 
   function openGame () {
