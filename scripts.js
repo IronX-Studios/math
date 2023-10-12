@@ -10,19 +10,19 @@ function checkPswd() {
   }
 
   function goNext () {
-    window.location.replace('/gxmes/math.html');
+    window.location.replace('https://ironx-studios.github.io/gxmes/math.html');
   }
 
   function goHome () {
-    window.location.replace('/gxmes/frozen.html');
+    window.location.replace('https://ironx-studios.github.io/gxmes/frozen.html');
   }
 
   function goHomel () {
-    window.location.replace('/gxmes/index.html');
+    window.location.replace('/gxmes');
   }
 
   function goFreeze () {
-    window.location.replace('/gxmes/math.html');
+    window.location.replace('https://ironx-studios.github.io/gxmes/math.html');
   }
 
   function openGame () {
