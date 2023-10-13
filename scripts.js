@@ -18,7 +18,7 @@ function checkPswd() {
   }
 
   function goHomel () {
-    back();
+    window.location.replace('https://ironx-studios.github.io/gxmes/');
   }
 
   function goFreeze () {
@@ -46,7 +46,7 @@ function openGamel () {
     iframe.style.border = "none";
     iframe.src = url
     win.document.body.appendChild(iframe)
-    window.location.replace('/index.html');
+    window.location.replace('https://ironx-studios.github.io/gxmes');
 }
 // Try later to create panic button
   function panic () {
