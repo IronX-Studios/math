@@ -46,7 +46,7 @@ function openGamel () {
     iframe.style.border = "none";
     iframe.src = url
     win.document.body.appendChild(iframe)
-    window.location.replace('https://ironx-studios.github.io/gxmes');
+    window.location.replace('https://ironx-studios.github.io/gxmes/index.html');
 }
 // Try later to create panic button
   function panic () {
