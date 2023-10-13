@@ -18,7 +18,7 @@ function checkPswd() {
   }
 
   function goHomel () {
-    window.location.replace('./gxmes');
+    window.location.replace('https://ironx-studios.github.io/gxmes/');
   }
 
   function goFreeze () {
