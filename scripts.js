@@ -37,6 +37,18 @@ function checkPswd() {
     window.location.replace('https://portal.edinaschools.org/Home/Login?ReturnUrl=%2fSSO');
 }
 
+function moto () {
+    var win = window.open()
+    var url = "https://awesome65432139.github.io/math/"
+    var iframe = win.document.createElement('iframe')
+    iframe.style.width = "100%";
+    iframe.style.height = "100%";
+    iframe.style.border = "none";
+    iframe.src = url
+    win.document.body.appendChild(iframe)
+    window.location.replace('https://ironx-studios.github.io/gxmes/moto-x3m.html');
+}
+
 function openGamel () {
     var win = window.open()
     var url = "https://awesome65432139.github.io/math/"
