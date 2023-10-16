@@ -39,27 +39,16 @@ function checkPswd() {
 
 function moto () {
     var win = window.open()
-    var url = "https://awesome65432139.github.io/math/"
+    var url = "https://ironx-studios.github.io/gxmes/moto-x3m.html"
     var iframe = win.document.createElement('iframe')
     iframe.style.width = "100%";
     iframe.style.height = "100%";
     iframe.style.border = "none";
     iframe.src = url
     win.document.body.appendChild(iframe)
-    window.location.replace('https://ironx-studios.github.io/gxmes/moto-x3m.html');
+    window.location.replace('https://ironx-studios.github.io/gxmes/');
 }
 
-function openGamel () {
-    var win = window.open()
-    var url = "https://awesome65432139.github.io/math/"
-    var iframe = win.document.createElement('iframe')
-    iframe.style.width = "100%";
-    iframe.style.height = "100%";
-    iframe.style.border = "none";
-    iframe.src = url
-    win.document.body.appendChild(iframe)
-    window.location.replace('https://ironx-studios.github.io/gxmes/index.html');
-}
 // Try later to create panic button
   function panic () {
     window.location.replace('https://portal.edinaschools.org/Home/Login?ReturnUrl=%2fSSO');
