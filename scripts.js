@@ -1,7 +1,7 @@
 /* Place your JavaScript in this file */
 function checkPswd() {
     var confirmPassword = "E";
-    var pswrd = document.getElementById("password").value;
+    var pswrd = document.getElementById('password').value;
     if (pswrd == confirmPassword) {
       goNext();
     } else {
