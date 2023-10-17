@@ -5,7 +5,7 @@ body {
     background-size: cover;
  }
 
- .trigger {
+ #trigger {
     margin-top: 2.4vh;
     margin-left: 18vw;
     border: 0px;
@@ -15,7 +15,7 @@ body {
     height: 120px;
  }
 
- .triggerl {
+ #triggerl {
     margin-top: 62.4vh;
     margin-left: 6.3vw;
     border: 0px;
