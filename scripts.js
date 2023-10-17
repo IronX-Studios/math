@@ -15,11 +15,7 @@ function checkPswd() {
   }
 
   function goHome () {
-    window.location.replace('https://ironx-studios.github.io/gxmes/frozen.html');
-  }
-
-  function goHomel () {
-    window.location.replace('https://ironx-studios.github.io/gxmes/');
+    frozen = true;
   }
 
   function goFreeze () {
