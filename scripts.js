@@ -38,19 +38,6 @@ function checkPswd() {
           frozen = false;
       }
 }
-
-function moto () {
-    var win = window.open()
-    var url = "https://ironx-studios.github.io/gxmes/moto-x3m.html"
-    var iframe = win.document.createElement('iframe')
-    iframe.style.width = "100%";
-    iframe.style.height = "100%";
-    iframe.style.border = "none";
-    iframe.src = url
-    win.document.body.appendChild(iframe)
-    window.location.replace('https://ironx-studios.github.io/gxmes/');
-}
-
 // Try later to create panic button
   function panic () {
     window.location.replace('https://portal.edinaschools.org/Home/Login?ReturnUrl=%2fSSO');
