@@ -1,3 +1,4 @@
+var frozen = false;
 /* Place your JavaScript in this file */
 function checkPswd() {
     var confirmPassword = "E";
@@ -22,7 +23,7 @@ function checkPswd() {
   }
 
   function goFreeze () {
-    window.location.replace('https://ironx-studios.github.io/gxmes/math.html');
+    frozen = true;
   }
 
   function openGame () {
