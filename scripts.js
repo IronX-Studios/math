@@ -35,6 +35,7 @@ function checkPswd() {
         window.location.replace('https://portal.edinaschools.org/Home/Login?ReturnUrl=%2fSSO');
       } else {
           window.location.replace('https://ironx-studios.github.io/gxmes/');
+          frozen = false;
       }
 }
 
