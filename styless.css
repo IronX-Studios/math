@@ -21,8 +21,8 @@ body {
     border: 0px;
     background-color: white;
     background-color: rgba(0, 0, 0, 1);
-    width: 150px;
-    height: 120px;
+    width: 6.4vw;
+    height: 6.4vw;
  }
 
  .trigger2 {
@@ -30,8 +30,8 @@ body {
     margin-left: 18vw;
     border: 0px;
     background-color: rgba(0, 0, 0, 1);
-    width: 150px;
-    height: 120px;
+    width: 6.4vw;
+    height: 6.4vw;
     background-color: white;
  }
 
