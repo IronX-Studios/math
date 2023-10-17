@@ -35,7 +35,7 @@ body {
     background-color: white;
  }
 
- .home {
+ #home {
    border: 0px;
    margin-left: 35vw;
    background-color: rgba(0, 0, 0, 0);
