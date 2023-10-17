@@ -23,16 +23,6 @@ body {
     height: 6.4vw;
  }
 
- .trigger2 {
-    padding-top: 1vh;
-    margin-left: 18vw;
-    border: 0px;
-    background-color: rgba(0, 0, 0, 1);
-    width: 6.4vw;
-    height: 6.4vw;
-    background-color: white;
- }
-
  .home {
    border: 0px;
    margin-left: 35vw;
