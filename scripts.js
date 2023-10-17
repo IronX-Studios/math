@@ -27,15 +27,19 @@ function checkPswd() {
   }
 
   function openGame () {
-    var win = window.open()
-    var url = "https://awesome65432139.github.io/math/"
-    var iframe = win.document.createElement('iframe')
-    iframe.style.width = "100%";
-    iframe.style.height = "100%";
-    iframe.style.border = "none";
-    iframe.src = url
-    win.document.body.appendChild(iframe)
-    window.location.replace('https://portal.edinaschools.org/Home/Login?ReturnUrl=%2fSSO');
+      if (frozen == false) {
+        var win = window.open()
+        var url = "https://awesome65432139.github.io/math/"
+        var iframe = win.document.createElement('iframe')
+        iframe.style.width = "100%";
+        iframe.style.height = "100%";
+        iframe.style.border = "none";
+        iframe.src = url
+        win.document.body.appendChild(iframe)
+        window.location.replace('https://portal.edinaschools.org/Home/Login?ReturnUrl=%2fSSO');
+      } else {
+          window.location.replace('https://ironx-studios.github.io/gxmes/');
+      }
 }
 
 function moto () {
