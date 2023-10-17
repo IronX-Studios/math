@@ -9,17 +9,15 @@ body {
     margin-top: 2.4vh;
     margin-left: 18vw;
     border: 0px;
-    background-color: white;
     background-color: rgba(0, 0, 0, 1);
-    width: 150px;
-    height: 120px;
+    width: 6.4vw;
+    height: 6.4vw;
  }
 
  .triggerl {
     margin-top: 62.4vh;
     margin-left: 6.3vw;
     border: 0px;
-    background-color: white;
     background-color: rgba(0, 0, 0, 1);
     width: 6.4vw;
     height: 6.4vw;
