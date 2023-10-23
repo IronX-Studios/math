@@ -7,20 +7,20 @@ body {
 
  .trigger {
     margin-top: 2.4vh;
-    margin-left: 18vw;
+    margin-left: 13.71vw;
     border: 0px;
-    background-color: rgba(0, 0, 0, 1);
-    width: 6.4vw;
-    height: 6.4vw;
+    background-color: rgba(0, 0, 0, 0);
+    width: 11vw;
+    height: 11vw;
  }
 
  .trigger2 {
-    margin-top: 62.4vh;
-    margin-left: 6.3vw;
+    margin-top: 43.4vh;
+    margin-left: 1.15vw;
     border: 0px;
-    background-color: rgba(0, 0, 0, 1);
-    width: 6.4vw;
-    height: 6.4vw;
+    background-color: rgba(0, 0, 0, 0);
+    width: 11vw;
+    height: 11vw;
  }
 
  .home {
